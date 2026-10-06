@@ -1,0 +1,6 @@
+.cursor/plans/
+.cursor/projects/
+.DS_Store
+Thumbs.db
+*.swp
+*~

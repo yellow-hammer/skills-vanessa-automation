@@ -1,0 +1,3 @@
+# Agents
+
+При правке `features/**/*.feature` и `tools/VAParams.json` применяй навык `vanessa-automation` и правила `va-features`, `va-run`.
